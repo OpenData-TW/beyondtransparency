@@ -44,7 +44,7 @@ div.menu-bar{
 }
 div.menu-btn{
   text-transform:uppercase;
-  font-family: 'TradeGothicLTCom-Bd2';
+  font-family: 'Microsoft JhengHei', 'TradeGothicLTCom-Bd2';
   font-weight:bold;
   cursor:pointer;
   margin-top: 12px;
@@ -77,7 +77,7 @@ div.nav .menu-btn.menu-icon:hover {
 }
 div.byline{
   margin-bottom:10px;
-  font-family: 'NewCaledoniaLT-Italic';
+  font-family: 'Microsoft JhengHei', 'NewCaledoniaLT-Italic';
 }
 
 div.navbar-header{
@@ -173,7 +173,7 @@ div.offset2{
 .btn-primary{
   background-color:#bd2961;
   border-color:#bd2961;
-  font-family: 'TradeGothicLT';
+  font-family: 'Microsoft JhengHei', 'TradeGothicLT';
   font-size:20px;
   line-height: 20px;
   padding: 13px 15px;
@@ -198,7 +198,7 @@ ul.buy-links{
   list-style:none;
   margin-top:15px;
   padding-left:0px;
-  font-family: 'TradeGothicLT';
+  font-family: 'Microsoft JhengHei', 'TradeGothicLT';
 }
 ul.buy-links li{
   padding:3px 0px;
@@ -279,7 +279,7 @@ div.contributors li {
   float:left;
   list-style:none;
   padding:0px;
-  font-family: 'NewCaledoniaLT-Italic';
+  font-family: 'Microsoft JhengHei', 'NewCaledoniaLT-Italic';
   color: #777;
 }
 div.contributors li img{
@@ -288,7 +288,7 @@ div.contributors li img{
   margin:10px 10px 50px 0px;
 }
 div.contributors div.name{
-  font-family: 'TradeGothicLTCom-Bd2';
+  font-family: 'Microsoft JhengHei', 'TradeGothicLTCom-Bd2';
   font-size: 22px;
   color:#333;
 }
@@ -304,7 +304,7 @@ div.critics .quote {
 }
 div.critics .attribution{
   text-align:right;
-  font-family: 'NewCaledoniaLT-Italic';
+  font-family: 'Microsoft JhengHei', 'NewCaledoniaLT-Italic';
   padding-bottom:25px;
 }
 
@@ -341,7 +341,7 @@ div.about-book{
 
 .chapter-number{
   font-size:24px;
-  font-family: 'TradeGothicLT';
+  font-family: 'Microsoft JhengHei', 'TradeGothicLT';
   text-transform:uppercase;
 }
 .chapter .chapter-title{
@@ -350,7 +350,7 @@ div.about-book{
   line-height:51px;
 }
 .chapter blockquote {
-  font-family: 'NewCaledoniaLT-Italic';
+  font-family: 'Microsoft JhengHei', 'NewCaledoniaLT-Italic';
   border-left: 0px;
 }
 
@@ -409,24 +409,24 @@ div.about-book{
   font-size:14px;
   text-decoration:none;
   list-style:none;
-  font-family: 'TradeGothicLT';
+  font-family: 'Microsoft JhengHei', 'TradeGothicLT';
 }
 .chapter-nav ul li:hover {
   color: #fff;
 }
 .chapter-nav li .nav-chapter-author{
   font-size: 13px;
-  font-family: 'NewCaledoniaLT-Italic';
+  font-family: 'Microsoft JhengHei', 'NewCaledoniaLT-Italic';
 }
 
 .chapter-nav li .nav-part{
-  font-family: 'TradeGothicLTCom-Bd2';
+  font-family: 'Microsoft JhengHei', 'TradeGothicLTCom-Bd2';
 }
 
 .footer{
   background:#404040;
   color:#ccc;
-  font-family: 'TradeGothicLT';
+  font-family: 'Microsoft JhengHei', 'TradeGothicLT';
   font-size: 14px;
   text-align:left;
   padding:20px 0px 5px;
@@ -448,14 +448,14 @@ div.about-book{
   width: 100px;
 }
 .author .name{
-  font-family: 'TradeGothicLTCom-Bd2';
+  font-family: 'Microsoft JhengHei', 'TradeGothicLTCom-Bd2';
   font-size:18px;
 }
 
 .author .job-title,
 .author .employer,
 .author .about {
-  font-family: 'NewCaledoniaLT-Italic';
+  font-family: 'Microsoft JhengHei', 'NewCaledoniaLT-Italic';
   font-size: 14px;
   line-height: 18px;
 }
@@ -491,7 +491,7 @@ div.about-book{
   margin:0px;
 }
 .in-chapter-nav ul li{
-  font-family: 'TradeGothicLT';
+  font-family: 'Microsoft JhengHei', 'TradeGothicLT';
   font-size: 13px;
   padding:3px 0px;
   list-style:none;
@@ -508,7 +508,7 @@ div.about-book{
 }
 .in-chapter-sidebar-content .chapter-nav-links a,
 .mobile-in-chapter-links .chapter-nav-links a {
-  font-family: 'TradeGothicLT';
+  font-family: 'Microsoft JhengHei', 'TradeGothicLT';
   text-transform: uppercase;
   font-size: 13px;
   float: left;
@@ -563,6 +563,6 @@ div.about-book{
   top: 26px;
   right: 0;
   font-size: 10px;
-  font-family: 'TradeGothicLTCom-Bd2';
+  font-family: 'Microsoft JhengHei', 'TradeGothicLTCom-Bd2';
   cursor: pointer;
 }

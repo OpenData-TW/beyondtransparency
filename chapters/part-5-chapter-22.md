@@ -58,7 +58,7 @@ Increasingly, in today’s world, this kind of algorithmic regulation is more th
 
 Revelation after revelation of bad behavior by big banks demonstrates that periodic bouts of enforcement aren’t sufficient. Systemic malfeasance needs systemic regulation. It’s time for government to enter the age of big data. Algorithmic regulation is an idea whose time has come.
 
-### Open Data and Government as a Platform
+### 開放資料與政府作為一個平台
 
 There are those who say that government should just stay out of regulating many areas, and let “the market” sort things out. But there are many ways in which bad actors take advantage of a vacuum in the absence of proactive management. Just as companies like Google, Microsoft, Apple, and Amazon build regulatory mechanisms to manage their platforms, government exists as a platform to ensure the success of our society, and that platform needs to be well regulated!
 
@@ -74,7 +74,7 @@ When data is provided in re-usable digital formats, the private sector can aid i
 
 When government regulators focus on requiring disclosure, that lets private companies build services for consumers, and frees up more enforcement time to go after truly serious malefactors.
 
-### Regulation Meets Reputation
+### 當規範遇到名聲
 
 It is true that “that government governs best that governs least.” But the secret to “governing least” is to identify key outcomes that we care about as a society—safety, health, fairness, opportunity—encode those outcomes into our laws, and then create a constantly evolving set of regulatory mechanisms that keep us on course towards them.
 
@@ -94,7 +94,7 @@ There are a number of interesting new projects that attempt to combine the reach
 
 Another interesting project that actually harnesses citizen help (rather than just citizen opinion) by connecting a consumer-facing app to government data is the PulsePoint project, originally started by the San Ramon, California fire department. After the fire chief had the dismaying experience of hearing an ambulance pull up to the restaurant next door to the one in which he was having lunch with staff including a number of EMR techs, he commissioned an app that would allow any citizen with EMR training to receive the same dispatch calls as officials.
 
-### The Role of Sensors in Algorithmic Regulation
+### 演算規範中感應器的角色
 
 Increasingly, our interactions with businesses, government, and the built environment are becoming digital, and thus amenable to creative forms of measurement, and ultimately algorithmic regulation.
 
@@ -112,7 +112,7 @@ As we move to a future with more electric vehicles, there are already proposals 
 
 Moving further out into the future, you can imagine public transportation reinventing itself to look much like Uber. It’s a small leap from connecting one passenger and one driver to picking up four or five passengers all heading for the same destination, or along the same route. Smartphone GPS sensors and smart routing algorithms could lead to a hybrid of taxi and bus service, bringing affordable, flexible public transportation to a much larger audience.
 
-### The First Step is Measurement
+### 第一步是 Measurement
 
 Data driven regulatory systems need not be as complex as those used by Google or credit card companies, or as those imagined above. Sometimes, it’s as simple as doing the math on data that is already being collected and putting in place new business processes to act on it.
 
@@ -132,7 +132,7 @@ It’s important to understand that these manual interventions are only an essen
 
 There’s a long way to go. We’re just at the beginning of thinking about how measurement, outcomes, and regulation come together.
 
-### Risks of Algorithmic Regulation
+### 演算規範的危險
 
 The use of algorithmic regulation increases the power of regulators, and in some cases, could lead to abuses, or to conditions that seem anathema to us in a free society. “Mission creep” is a real risk. Once data is collected for one purpose, it’s easy to imagine new uses for it. We’ve already seen this in requests to the NSA for data on American citizens originally collected for purposes of fighting overseas terrorism being requested by other agencies to fight domestic crime, including copyright infringement! (See Lichtblau & Schmidt, 2013.)
 
@@ -150,7 +150,7 @@ Given the amount of data being collected by the private sector, it is clear that
 
 This is no different in a government context.
 
-### In Conclusion
+### 結論
 
 We are just at the beginning of a big data algorithmic revolution that will touch all elements of our society. Government needs to participate in this revolution.
 
@@ -166,11 +166,11 @@ As outlined in the introduction, a successful algorithmic regulation system has 
 
 Open data plays a key role in both steps 2 and 4. Open data, either provided by the government itself, or required by government of the private sector, is a key enabler of the measurement revolution. Open data also helps us to understand whether we are achieving our desired objectives, and potentially allows for competition in better ways to achieve those objectives.
 
-### About the Author
+### 關於作者
 
-Tim O’Reilly is the founder and CEO of O’Reilly Media Inc., thought by many to be the best computer book publisher in the world. O’Reilly Media also hosts conferences on technology topics, including the O’Reilly Open Source Convention, Strata: The Business of Data, and many others. Tim’s blog, the O’Reilly Radar “watches the alpha geeks” to determine emerging technology trends, and serves as a platform for advocacy about issues of importance to the technical community. Tim is also a partner at O’Reilly AlphaTech Ventures, O’Reilly’s early stage venture firm, and is on the board of Safari Books Online, PeerJ, Code for America, and Maker Media, which was recently spun out from O’Reilly Media. Maker Media’s Maker Faire has been compared to the West Coast Computer Faire, which launched the personal computer revolution.
+Tim O'Reilly is the founder and CEO of O’Reilly Media Inc., thought by many to be the best computer book publisher in the world. O’Reilly Media also hosts conferences on technology topics, including the O’Reilly Open Source Convention, Strata: The Business of Data, and many others. Tim’s blog, the O’Reilly Radar “watches the alpha geeks” to determine emerging technology trends, and serves as a platform for advocacy about issues of importance to the technical community. Tim is also a partner at O’Reilly AlphaTech Ventures, O’Reilly’s early stage venture firm, and is on the board of Safari Books Online, PeerJ, Code for America, and Maker Media, which was recently spun out from O’Reilly Media. Maker Media’s Maker Faire has been compared to the West Coast Computer Faire, which launched the personal computer revolution.
 
-### References
+### 參考資料
 
 * [Lichtblau, E., & Schmidt, M.S. (2013, August 3). Other Agencies Clamor for Data N.S.A. Compiles. The New York Times. Retrieved from http://www.nytimes.com/2013/08/04/us/other-agencies-clamor-for-data-nsa-compiles.html](http://www.nytimes.com/2013/08/04/us/other-agencies-clamor-for-data-nsa-compiles.html)
 * [Open Government Working Group. (2007, December 8). 8 Principles of Open Government Data. Retrieved from http://www.opengovdata.org/home/8principles](http://www.opengovdata.org/home/8principles)
