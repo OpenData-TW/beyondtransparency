@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: "Generating Economic Value through Open Data"
+title: "透過開放資料產生經濟價值"
 chapter: 13
 part: 3
 author: 
@@ -28,6 +28,8 @@ author:
 
 permalink: /part-3/generating-economic-value-through-open-data/
 ---
+
+"Generating Economic Value through Open Data"
 
 The private and public sectors have begun to embrace “big data” and analytics to improve productivity and enable innovation. We have documented the tremendous economic potential that can be unlocked by using the increasing volumes and diversity of real-time data (e.g., social media, road traffic flows) to make better decisions in a wide variety of sectors, from healthcare to manufacturing to retail to public administration (Manyika et al., 2011).
 

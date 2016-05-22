@@ -4,13 +4,13 @@ author: someone
 part: 5
 chapter: 0
 ispart: true
-title: Looking Ahead
+title: 望向未來
 permalink: /part-5/
 ---
 
-## Editor’s Note
+Looking Ahead
 
-
+## Editor's Note
 
 What is needed to take the open data movement even further? What obstacles, challenges, and concerns remain to be addressed? This section is devoted to identifying those issues, and envisioning a future of civic innovation powered by open data.
 

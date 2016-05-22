@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: "Beyond Transparency: Louisville's Strategic Use of Data to Drive Continuous Improvement"
+title: "超越透明 : Louisville 策略的使用資料來引導持續的改善"
 chapter: 17
 part: 4
 author: 
@@ -21,6 +21,8 @@ author:
     
 permalink: /part-4/beyond-transparency-louisvilles-strategic-use-of-data-to-drive-continuous-improvement/
 ---
+"Beyond Transparency: Louisville's Strategic Use of Data to Drive Continuous Improvement"
+
 *Government embodies our highest aspirations and our lowest expectations.*
 
 We have high expectations for all that we want our government to do and all of the services we ask it to provide, regardless of politics or fiscal constraints. We expect government to collect our trash, inspect our restaurants, maintain our roads, protect our property, and provide services to our most vulnerable citizens. These are just a few of the myriad tasks. Most governments perform these functions with a level of resource and reporting constraints that would challenge any well-run organization. Many of us have experienced, in one way or another, the reality that the majority of cities do not operate like well-run organizations.

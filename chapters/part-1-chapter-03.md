@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: Building a Smarter Chicago 
+title: 建立一個更聰明的芝加哥 
 chapter: 3
 part: 1
 author: 
@@ -15,6 +15,8 @@ author:
 permalink: "/part-1/building-a-smarter-chicago/"
 featured: true
 ---
+
+Building a Smarter Chicago 
 
 ### Introduction
 

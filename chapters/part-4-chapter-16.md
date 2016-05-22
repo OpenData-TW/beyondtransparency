@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: "Why Data Must Drive Decisions in Government"
+title: "為什麼政府必須以資料來做出決定"
 chapter: 16
 part: 4
 author: 
@@ -14,6 +14,9 @@ author:
 
 permalink: /part-4/why-data-must-drive-decisions-in-government/
 ---
+
+"Why Data Must Drive Decisions in Government"
+
 ### The Dawn of the Data-Driven Government
 
 The government landscape in 2013 includes a host of challenges and opportunities. The economy is uncertain, politics are highly polarized, and many more people are relying on government services compared to just a decade ago. We’re also living in a time of unprecedented digital openness, convenience, and transparency in everyday life.

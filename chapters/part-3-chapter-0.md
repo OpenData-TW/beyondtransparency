@@ -4,12 +4,13 @@ author: Editor
 part: 3
 chapter: 0
 ispart: true
-title: Understanding Open Data
+title: 瞭解開放資料
 permalink: /part-3/
 ---
 
+Understanding Open Data
 
-## Editor’s Note
+## Editor's Note
 
 This section explores some of the larger scale implications of opening government data. Industry experts outline emergent impacts on our public sphere, democratic processes, and economy—while also articulating the enabling factors that are needed to bring about potential transformative benefits.
 

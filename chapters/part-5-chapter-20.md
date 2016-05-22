@@ -15,6 +15,8 @@ author:
 permalink: /part-5/the-bigger-picture-ten-lessons-for-taking-open-government-further/
 ---
 
+"The Bigger Picture: Ten Lessons for Taking Open Government Further"
+
 My job at the Knight Foundation is to identify people with promising ideas and help them execute them. Our primary tool for that is the Knight News Challenge, through which we’ve supported nearly a hundred projects, with more than $30 million over six years. We’ve supported several open government-related projects and groups like LocalWiki, the Open Knowledge Foundation, Ushahidi, EveryBlock, and Open Street Maps.
 
 The code, insights, and talent networks we’ve supported through the News Challenge moved us to focus a recent iteration on open government. Our goal was to expand the table of people who engage with open government. In addition to practical open government applications, we hoped to uncover ideas about how the internet can change the ways in which citizens and governments interact. We wanted to involve more people in the use of technology to solve community problems, and we sought to expand the geographic footprint beyond what’s become the standard open government metropoles of San Francisco, Chicago, and the Boston-New York- DC Acela nexus. Silently, I hoped that at least one of the winners would not even consider themselves as part of the open government movement.

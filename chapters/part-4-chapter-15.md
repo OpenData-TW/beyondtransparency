@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: "Beyond Open Data: The Data-Driven City"
+title: "超越開放資料 : 資料導向城市"
 chapter: 15
 part: 4
 author: 
@@ -15,6 +15,8 @@ author:
 featured: true
 permalink: /part-4/beyond-open-data-the-data-driven-city/
 ---
+
+"Beyond Open Data: The Data-Driven City"
 
 *Being a data-driven city is about more efficiently and effectively delivering the core services of the city. Being data-driven is not primarily a challenge of technology; it is a challenge of direction and organizational leadership.*
 

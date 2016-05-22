@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: "Open Data and Open Discourse at Boston Public Schools"
+title: Boston 公立學校的開放資料與開放演講
 part: 1
 chapter: 1
 author: 
@@ -14,6 +14,8 @@ author:
 
 permalink: /part-1/open-data-and-open-discource-at-boston-public-schools/
 ---
+
+Open Data and Open Discourse at Boston Public Schools
 
 > I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts.
 

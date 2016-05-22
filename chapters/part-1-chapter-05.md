@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: "Asheville’s Open Data Journey: Pragmatics, Policy, and Participation"
+title: "Asheville 的開放資料旅程 : 務實，政策，與參與"
 chapter: 5
 part: 1
 author: 
@@ -14,6 +14,8 @@ author:
 
 permalink: "/part-1/ashvilles-open-data-journey-pragmatics-policy-and-participation/"
 --- 
+
+Asheville's Open Data Journey: Pragmatics, Policy, and Participation
 
 Much of the open data conversation centers on policy, politics, or solving community problems. These are great—and needed—beginning and end points, but there is an important middle point that raises two questions: How do we produce open data? And how can we get open data to be a part of the government process?
 

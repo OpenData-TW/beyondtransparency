@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: "Pioneering Open Data Standards: The GTFS Story"
+title: "開拓開放資料的標準 : GTFS 的故事"
 chapter: 10
 part: 2
 author: 
@@ -16,6 +16,8 @@ featured: true
 
 permalink: "/part-2/pioneering-open-data-standards-the-gtfs-story/"
 ---
+
+"Pioneering Open Data Standards: The GTFS Story"
 
 In 2005, I was working at TriMet, the public transit agency in Portland, Oregon, as an IT manager for Geographic Information Services. Earlier that year, while traveling, I found it very frustrating to try and find transit directions in the unfamiliar cities I was visiting. This was especially true when transportation agencies that provided differing services or areas were not consolidated. It was much easier at that time to get driving directions from popular online mapping services, and I realized this was probably encouraging car usage over public transit.
 

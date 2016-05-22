@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: "From Entrepreneurs to Civic Entrepreneurs"
+title: "從創業家到公民創業家"
 chapter: 6
 part: 2
 author: 
@@ -21,6 +21,8 @@ author:
    
 permalink: "/part-2/from-entrepreneurs-to-civic-entrepreneurs/"
 ---
+
+"From Entrepreneurs to Civic Entrepreneurs"
 
 ### Introduction
 

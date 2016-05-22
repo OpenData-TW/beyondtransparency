@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: "Open Data and Algorithmic Regulation"
+title: "開放資料與演算規範"
 chapter: 22
 part: 5
 author: 
@@ -15,6 +15,8 @@ featured: true
 
 permalink: /part-5/open-data-and-algorithmic-regulation/
 ---
+
+"Open Data and Algorithmic Regulation"
 
 Regulation is the bugaboo of today’s politics. We have too much of it in most areas, we have too little of it in others, but mostly, we just have the wrong kind, a mountain of paper rules, inefficient processes, and little ability to adjust the rules or the processes when we discover the inevitable unintended results.
 

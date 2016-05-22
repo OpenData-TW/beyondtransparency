@@ -5,8 +5,10 @@ part: 1
 chapter: 0
 permalink: "/part-1/"
 ispart: true
-title: Opening Government Data
+title: 開放政府資料
 ---
+
+Opening Government Data 
 
 ## Editor’s Note
 

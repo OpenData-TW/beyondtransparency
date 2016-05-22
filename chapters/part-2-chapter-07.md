@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: "Hacking FOIA: Using FOIA Requests to Drive Government Innovation"
+title: "Hacking FOIA: 使用 FOIA 請求來引領政府創新"
 part: 2
 chapter: 7
 author: 
@@ -14,6 +14,8 @@ author:
 
 permalink: "/part-2/hacking-foia-using-foia-requests-to-drive-government-innovation/"
 ---
+
+"Hacking FOIA: Using FOIA Requests to Drive Government Innovation"
 
 ### Turning FOIA On Its Head
 

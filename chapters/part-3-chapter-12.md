@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: "The Beginning of a Beautiful Friendship: Data and Design in Innovative Citizen Experiences"
+title: "一段美好友誼的起點 : 創新公民經驗中的資料與設計"
 chapter: 12
 part: 3
 author: 
@@ -14,6 +14,8 @@ author:
 
 permalink: /part-3/the-beginning-of-a-beautiful-friendship-data-and-design-in-innovative-citizen-experiences/
 ---
+
+"The Beginning of a Beautiful Friendship: Data and Design in Innovative Citizen Experiences"
 
 The past decade has brought enormous and growing benefits to ordinary citizens through applications built on public data. Any release of data offers advantages to experts, such as developers and journalists, but there is a crucial common factor in the most successful open data applications for non-experts: excellent design. In fact, open data and citizen-centered design are natural partners, especially as the government 2.0 movement turns to improving service delivery and government interaction in tandem with transparency. It’s nearly impossible to design innovative citizen experiences without data, but that data will not reach its full potential without careful choices about how to aggregate, present, and enable interaction with it.
 

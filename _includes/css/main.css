@@ -1,12 +1,17 @@
+body, button, input, select, textarea, h1 ,h2, h3, h4, h5, h6 { 
+  font-family: 'Microsoft JhengHei', Tahoma, Helvetica, Arial, sans-serif;
+}
+
+
 body{
-  font-family: 'NewCaledoniaLT', sans-serif;
+  font-family: 'Microsoft JhengHei', NewCaledoniaLT, sans-serif;
   background:#fff;
   color:#333;
   font-size: 18px;
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'TradeGothicLTCom-Bd2';
+  font-family: 'Microsoft JhengHei', 'TradeGothicLTCom-Bd2';
 }
 
 a, a:visited{

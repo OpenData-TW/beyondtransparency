@@ -4,13 +4,13 @@ author: someone
 part: 4
 chapter: 0
 ispart: true
-title: Driving Decisions with Data
+title: 資料導向下的決策
 permalink: /part-4/
 ---
 
-## Editor’s Note
+## Editor's Note
 
-
+Driving Decisions with Data
 
 What happens when local governments focus on open data as a tool for making better decisions—moving beyond transparency to become data-driven entities themselves? In this section, we hear from practitioners who share the rationale and results behind their efforts to help government not only open data for public use, but to internally leverage data to continuously improve business processes, policy, and resource allocation.
 

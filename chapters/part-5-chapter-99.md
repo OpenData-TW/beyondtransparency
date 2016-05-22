@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: "Afterword: What's Next?"
+title: "編後語 : 接下來呢 ?"
 part: 6
 chapter: 99
 
@@ -15,6 +15,9 @@ author:
 
 permalink: /afterword/
 ---
+
+"Afterword: What's Next?"
+
 >The principle binary struggle of the 21st century is not left or right, but open societies versus closed.
 
 > —Alec J. Ross

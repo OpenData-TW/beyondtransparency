@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: "Local Scale and Local Data"
+title: "區域規模與區域資料"
 chapter: 14
 part: 3
 author: 
@@ -22,6 +22,7 @@ author:
 permalink: /part-3/local-scale-and-local-data/
 ---
 
+"Local Scale and Local Data"
 
 Today, the town hall meeting conjures visions of televised, invitation-only debates in which candidates for national office respond in scripted paragraphs to the prepared questions of selected constituents. But in the eighteenth and nineteenth centuries, town hall meetings were a space in which citizens came to debate the issues of the day, and to vote on appropriate action. For Henry David Thoreau (1854), town hall meetings in which each man was afforded a voice on questions as morally significant and politically complex as Massachusetts’ enforcement of the Fugitive Slave Act were the “true Congress, and the most respectable one that is ever assembled in the United States.” Thoreau was fundamentally distrustful of the big cities of New York and Boston, where the press, politicians, and special interest groups obscured citizens’ voices.
 

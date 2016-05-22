@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: Lessons from the London Datastore 
+title: 從倫敦 Datastore 所學到的 
 chapter: 4
 part: 1
 author: 
@@ -15,6 +15,8 @@ author:
 permalink: "/part-1/lessons-from-the-london-datastore/"
 featured: true
 ---
+
+Lessons from the London Datastore 
 
 I’ve worked for local government in London since 2005. In March 2009, I moved to City Hall to undertake a yearlong research project funded by the Greater London Authority (GLA), Capital Ambition, and the Department of Communities and Local Government. The purpose of the project was to examine how policy was working across the London Boroughs, particularly regarding their use of new media and technology. It also meant analyzing their use of qualitative research methodologies. This project built on research previously undertaken by Leo Boland, who had recently taken on the role of Chief Executive of The Greater London Authority.
 

@@ -5,12 +5,12 @@ part: 2
 chapter: 0
 permalink: /part-2/
 ispart: true
-title: Building on Open Data
+title: 建立在開放資料之上
 ---
 
-## Editor’s Note
+Building on Open Data
 
-
+## Editor's Note
 
 Once government data has been released, what can it be used for and by whom? What are some of the emergent, and perhaps unexpected, applications? In this section, we hear from different users of open data—including entrepreneurs, journalists, community organizers, government employees, and established companies—and discuss examples of what these stakeholders have done with and learned from open government data.
 

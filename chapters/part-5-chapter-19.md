@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: "Towards a Community Data Commons"
+title: "邁向社群資料共用"
 chapter: 19
 part: 5
 author: 
@@ -14,6 +14,9 @@ author:
 
 permalink: /part-5/towards-a-community-data-commons/
 ---
+
+"Towards a Community Data Commons"
+
 ### The Front Line
 
 Bread for the City is one of Washington D.C.’s largest and most comprehensive providers of human services: an institution nearly four decades old, with four departments offering dozens of services—health care, legal counsel, food provisions, social workers, and the “Bread Boutique” clothing room to boot—in two facilities on opposite sides of the city. About thirty-two thousand people walk through Bread for the City’s doors each year, but out of all of these “walk-ins,” only around twelve thousand people actually become “clients.” The rest may need services that are provided elsewhere, at other non-profits or public agencies, and Bread for the City’s social workers redirect them accordingly.
