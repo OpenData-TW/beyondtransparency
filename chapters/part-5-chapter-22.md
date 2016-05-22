@@ -1,16 +1,16 @@
 --- 
 layout: chapter
-title: "開放資料與演算規範"
+title: "開放資料與演算式法規"
 chapter: 22
 part: 5
 author: 
   - 
-    name: Tim O’Reilly
+    name: Tim O'Reilly
     job: Founder and CEO
     employer: O'Reilly Media Inc.
     photo_url: /images/authors/tim.png
     twitter: timoreilly
-    about: "Founder and CEO of O’Reilly Media."
+    about: "Founder and CEO of O'Reilly Media."
 featured: true
 
 permalink: /part-5/open-data-and-algorithmic-regulation/
@@ -22,24 +22,19 @@ Regulation is the bugaboo of today’s politics. We have too much of it in most 
 
 Consider, for a moment, regulation in a broader context. Your car’s electronics regulate the fuel-air mix in the engine to find an optimal balance of fuel efficiency and minimal emissions. An airplane’s autopilot regulates the countless factors required to keep that plane aloft and heading in the right direction. Credit card companies monitor and regulate charges to detect fraud and keep you under your credit limit. Doctors regulate the dosage of the medicine they give us, sometimes loosely, sometimes with exquisite care, as with the chemotherapy required to kill cancer cells while keeping normal cells alive, or with the anesthesia that keeps us unconscious during surgery while keeping vital processes going. ISPs and corporate mail systems regulate the mail that reaches us, filtering out spam and malware to the best of their ability. Search engines regulate the results and advertisements they serve up to us, doing their best to give us more of what we want to see.
 
-What do all these forms of regulation have in common?
+所有這些法規的共同點是什麼?
 
-1. A deep understanding of the desired outcome
-
-2. Real-time measurement to determine if that outcome is being achieved
-
-3. Algorithms (i.e. a set of rules) that make adjustments based on new data
-
-4. Periodic, deeper analysis of whether the algorithms themselves are correct and performing as expected.
+1. 對於預期的產出有深入的瞭解
+2. 即時的評量機制來檢驗這個產出是否達成
+3. 演算法 (i.e. 一組規範) that make adjustments based on new data
+4. 對演算法本身週期性地深入分析，以確認其正確性與是否如預期般運作。
 
 There are a few cases—all too few—in which governments and quasi-governmental agencies regulate using processes similar to those outlined above. Probably the best example is the way that central banks regulate the money supply in an attempt to manage interest rates, inflation, and the overall state of the economy. Surprisingly, while individual groups might prefer the US Federal Reserve to tighten or loosen the money supply at a different time or rate than they do, most accept the need for this kind of regulation.
 
 Why is this?
 
 1. The desired outcomes are clear
-
 2. There is regular measurement and reporting as to whether those outcomes are being achieved, based on data that is made public to everyone
-
 3. Adjustments are made when the desired outcomes are not being achieved
 
 Contrast this with the normal regulatory model, which focuses on the rules rather than the outcomes. How often have we faced rules that simply no longer make sense? How often do we see evidence that the rules are actually achieving the desired outcome?
