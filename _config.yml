@@ -1,4 +1,12 @@
 name: Beyond Transparency
 markdown: rdiscount
 highlighter: true
+<<<<<<< HEAD
 # relative_permalinks: true
+=======
+# pygments: true
+# 'pygments' renamed to 'highlighter'
+# relative_permalinks: true
+# Relative Permalink support removedPermalink
+# https://jekyllrb.com/docs/upgrading/2-to-3/
+>>>>>>> origin/master
